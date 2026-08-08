@@ -7,11 +7,13 @@
 </p>
 
 ## 📌 About Me
+- Hey !! I am a 2nd year student at G.L. Bajaj Institute of Technology and Management . 
 - 🌱 I'm currently mastering Data Structures & Algorithms in C++ and exploring Competitive Programming.
 - 💻 I'm diving deep into Web Development and shifting gears toward AI/ML Engineering.
 - 🚀 I'm actively looking to collaborate on Open Source projects and real-world tech solutions.
 - 👥 Member of the HackerRank Campus Crew '26 — passionate about community building and tech learning.
 - 🤝 I'm looking for guidance or mentorship in cutting-edge AI/ML research and advanced DSA.
+- Looking for internship opportunities and gaining tech knowledge
 
 
 ## 🧠 My Focus Areas
